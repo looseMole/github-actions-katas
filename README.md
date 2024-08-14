@@ -18,7 +18,7 @@ This repository contains a set of exercises to learn Github Actions.
 
 ### Rough exercises (not yet ready)
 * [Reusing build cache ](./labs/build-cache.md)
-* [Selfhosted runners](./labs/selfhosted-runner.md)
+* [Selfhosted runners](./labs/selfhosted-runner.md).
 
 
 ## Resources
